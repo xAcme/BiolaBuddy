@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Biola</string>
+    <string name="title_activity_chime__main">Chime_Main</string>
+    <string name="MainMenuchimeBtnName">Chime</string>
+    <string name="MainMenuBuildingHourBtnName">Chapel</string>
+    <string name="MainMenuCampusMapBtnName">Map</string>
+    <string name="MainMenuEateriesBtnName">Dining</string>
+    <string name="main_menu_red_background">main menu red background</string>
+    <string name="chimesicon">chimesicon</string>
+    <string name="mapicon">mapicon</string>
+    <string name="buildinghoursicon">buildinghoursicon</string>
+    <string name="restaurantsicon">restaurantsicon</string>
+    <string name="chimesiconlabel">Chimes</string>
+    <string name="mapiconlabel">Map</string>
+    <string name="buildinghoursiconlabel">Chapel</string>
+    <string name="restaurantsiconlabel">Dining</string>
+    <string name="tab_bar">tab_bar</string>
+    <string name="Chime_news_Btn_Name">NEWS</string>
+    <string name="Chime_sports_Btn_Name">sports</string>
+    <string name="Chime_photo_video_Btn_Name">Photo_Video</string>
+    <string name="Chime_archive_Btn_Name">Archives</string>
+    <string name="Chime_opinions_Btn_Name">Opinions</string>
+    <string name="title_activity_chime__main__tab">Chime_Main_Tab</string>
+    <string name="tab_text_1">News</string>
+    <string name="tab_text_2">Sports</string>
+    <string name="tab_text_3">Entertainment</string>
+    <string name="tab_text_4">Opinions</string>
+    <string name="tab_text_5">Photo Video</string>
+    <string name="tab_text_6">Archives</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="read_more_btn">Read More</string>
+    <string name="title_activity_temp">temp</string>
+    <string name="chime_icon_desciption">chime icon</string>
+    <string name="biola_icon_white_description">biola_icon_white</string>
+    <string name="men_s_and_women_s_cross_country_both_claim_nccaa_championships">Men’s and women’s cross country both claim NCCAA championships</string>
+    <string name="example_string_mapiconlabel">example @string/mapiconlabel</string>
+    <string name="the_woman_behind_the_special_olympics_at_biola">The woman behind the Special Olympics at Biola</string>
+    <string name="example_string_mapicon">example @string/mapicon</string>
+    <string name="example_pic_description">example pic description</string>
+    <string name="chimesarticlelist">Chimes Article List</string>
+    <string name="chimesfullarticle">Chimes Article</string>
+    <string-array name="Restaurants">
+        <item>Eagles Nest</item>
+        <item>Common Grounds</item>
+        <item>Heritage Cafe</item>
+        <item>Talon/item</item>
+    </string-array>
+    <string name="title_activity_hours">activity_hours</string>
+    <string name="chapel_hours_tab_name">Chapel Hours</string>
+    <string name="building_hours_tab_name">Building Hours</string>
+    <string name="restaurant_menus">Restaurant Menu</string>
+    <string name="biola_logo">Biola Logo</string>
+    <string name="backarrow">Back Arrow</string>
+    <string name="Interactive_Map">Interactive Map</string>
+    <string name="article">Article</string>
+    <string name="image">Chimes Article Image</string>
+    <string name="Chimes_text">Chimes Article Text</string>
+    <string name="article_picture">article_picture</string>
+    <string name="article_content">Article Content</string>
+    <string name="load_percent">0 %</string>
+    <string name="biola_buddy">Biola Buddy</string>
+    <string name="biola_icon">Biola Icon</string>
+
+
+</resources>

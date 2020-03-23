@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/chimesicon"
+        android:icon="@drawable/chimesicon"
+        android:title="@string/chimesiconlabel" />
+    <item
+        android:id="@+id/mapicon"
+        android:icon="@drawable/mapicon"
+        android:title="@string/mapiconlabel" />
+    <item
+        android:id="@+id/buildinghoursicon"
+        android:icon="@drawable/buildinghoursicon"
+        android:title="@string/buildinghoursiconlabel" />
+    <item
+        android:id="@+id/restaurantsicon"
+        android:icon="@drawable/restaurantsicon"
+        android:title="@string/restaurantsiconlabel" />
+</menu>
